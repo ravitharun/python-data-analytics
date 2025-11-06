@@ -1,4 +1,4 @@
-findevn = 100
+findevn = 50
 total = 0
 
 for i in range(0, findevn+1):
