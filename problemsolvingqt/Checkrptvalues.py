@@ -7,4 +7,5 @@ for i in input_value:
         count+=1
     else:
         count=0;    
-print(f'{Check_value} repeted is {count}')        
+print(f'{Check_value} repeted is {count}')    
+    
