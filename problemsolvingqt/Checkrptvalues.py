@@ -1,9 +1,9 @@
 input_value=input("enter the text :")
-Check_value=input("enter the text to check the value :")
-print(Check_value)
+Check_value='r'
+
 count=0
 for i in input_value:
-    if i in 'r':
+    if i in Check_value:
         count+=1
     else:
         count=0;    
