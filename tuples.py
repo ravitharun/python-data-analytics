@@ -17,3 +17,6 @@ tuples=(1,2,"tharun")
 print([tuples])
 list_itm=[1,2,3,4]
 print(tuple(list_itm))
+
+
+
